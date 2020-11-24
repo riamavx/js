@@ -12,7 +12,11 @@ comidaFavorita = "lasanha"
 console.log(comidaFavorita)
 // Declarar 5 variáveis diferentes sem valores
 
-let compras, animais, comidas, frutas, profissoes;
+let compras,
+    animais,
+    comidas,
+    frutas,
+    profissoes;
 
 
 
